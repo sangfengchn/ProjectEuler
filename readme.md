@@ -15,3 +15,9 @@ This is a project to learn Julia with some prombles from [Project Euler.net](htt
 
 ## Problem 3
 ![](./img/Problem_3.png)
+
+## Problem 4
+![](./img/Problem_4.png)
+
+## Problem 5
+![](./img/Problem_5.png)
